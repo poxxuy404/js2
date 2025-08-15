@@ -139,4 +139,9 @@ let middleSum7 = numbers7[1] + numbers7[2];
 let edgeSum7 = min7 + max7;
 let result7 = edgeSum7 - middleSum7;
 console.log("7) Katta+kichikdan o‘rtadagi ikki son yig‘indisi farqi:", result7);
- 
+
+
+let yosh =18
+let staj=oliy
+
+cosole.let ()
